@@ -13,8 +13,12 @@ body {
     justify-content: center;
     align-items: center;
     gap: 20px; /* Space between elements */
+
+    color: white;
+    height: 100vh; /* Full viewport height */
+    box-sizing: border-box; /* Include padding and border in element's total width and height */
 }
-https://dharmendrasingh.com
+/* Removed invalid selector and HTML code */
 h1 {
     color: white;
 }
