@@ -1,28 +1,12 @@
-/* Add your CSS styles below */
-body {
-    background-color: #08080a;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0;
-    padding: 20px;
-    border: 1px solid white;
-    height: 100vh; /* Full viewport height */
-    box-sizing: border-box; /* Include padding and border in element's total width and height */
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-h1 {
-    color: white;
-}
-p {
-    color: yellow;
-}
-/* If you want to center content, add these to a selector, for example: */
-body {
-    display: flex;
-    align-items: center; /* Centers content vertically */
-    justify-content: center; /* Centers content horizontally */
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>This is version V5</h1>
+</body>
+</html>
